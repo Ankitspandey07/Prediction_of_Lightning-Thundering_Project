@@ -1,0 +1,11 @@
+Dependency:-
+
+
+
+1. Python 3.7
+
+2. Anaconda Package Manager
+
+3. Mysql.connector library for Python
+
+4. Nltk complete library
